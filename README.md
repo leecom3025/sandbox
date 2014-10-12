@@ -1,17 +1,12 @@
-Okay PCloud, Show As Is (oPsai).
+Sandbox for armv7 based Android 
 ====================================================
-oPsai project is a client side PCloud in Android.
-
-This is oPsai daemon test version for armeabiv7 archi. 
-
-The project is being built on  with Android version  ,
-Kernel version   and CWR version . 
-
-Thought it is a branch of LibVNCServer, it rarely uses the code or plugins. 
-
-As someone (JS), "HIGHLY QUALIFIED" software developer did not have time to answer a few questions, I decided to take the problem from the scractch and update it. 
-
-Unlike SOMEONE, shot me an email if you have a question. 
+Currently supported : 
+* libvnc 0.9.9
+* ZeroMQ 4.0.4
+* JPEG
+* JPEG-turbo
+* libpng
+* sth.... 
 
 Notice:
 Virtual Networking Protocol (VNC) and Remote FrameBuffer (RFB) are developed by RealVNC.
